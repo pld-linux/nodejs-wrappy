@@ -7,7 +7,7 @@
 Summary:	Callback wrapping utility
 Name:		nodejs-%{pkg}
 Version:	1.0.1
-Release:	1
+Release:	2
 License:	ISC
 Group:		Development/Libraries
 Source0:	https://github.com/npm/wrappy/archive/%{commit}/wrappy-%{commit}.tar.gz
